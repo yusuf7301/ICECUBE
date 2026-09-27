@@ -1,3 +1,0 @@
-/home/yusuf/Desktop/ICECUBE/build/CMakeFiles/IceCubeSim.dir
-/home/yusuf/Desktop/ICECUBE/build/CMakeFiles/edit_cache.dir
-/home/yusuf/Desktop/ICECUBE/build/CMakeFiles/rebuild_cache.dir
